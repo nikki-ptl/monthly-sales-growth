@@ -23,7 +23,8 @@ This project is a Power BI dashboard that analyzes sales and profit trends.
 ## 📷 Dashboard Preview
 <img width="1188" height="746" alt="image" src="https://github.com/user-attachments/assets/0f225bcf-dbf3-4e34-abae-a9f35c830dc7" />
 
-
+## Dataset
+https://docs.google.com/spreadsheets/d/1433yAYI53DJTnp5FozoXWict56goq4nL/edit?usp=sharing&ouid=114887045505742565200&rtpof=true&sd=true
 
 ## 🚀 How to Use
 
